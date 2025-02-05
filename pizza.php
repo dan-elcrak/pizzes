@@ -29,9 +29,8 @@
       exit(0);
 }
 echo "<br>";
-echo "Autor: dacomo"."<br>";
+echo "Autor: dagafeeeee"."<br>";
 
      ?>
-Autor: Daniel Garcia <br>
      </body>
 </html>
